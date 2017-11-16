@@ -6,6 +6,7 @@
 - interface.fig、interface.m：演示界面文件；
 - Pedestrian.exe：车辆检测主程序；
 - temp.txt：演示软件临时文件；
+- test_video.mov：测试用视频文件；
 - warning.wav：软件使用的警告声音音频文件。
 
 2、用途 
