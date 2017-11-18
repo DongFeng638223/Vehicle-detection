@@ -1,3 +1,3 @@
-E:\test\tianqiao.mov
--524.138
+C:\Users\Administrator\Desktop\predict_CAR_NEW_game\Vehicle-detection\test_video.mov
+-520.69
 
